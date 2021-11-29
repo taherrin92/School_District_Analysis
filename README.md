@@ -16,6 +16,9 @@
       - When the ninth-grade students from Thomas are omitted from the district summary, the average math scores go down by .1% and the average reading scores remain unchanged. The passing math percentage drops by .2%, the reading percentage drops by .3% and the overall passing percentage drops by .2%.
 
 2. Per School Summary Report:
-   - The per summary report before the ninth graders' grades from Thomas High School were omitted from the summary is shown here:  
+   - The per school summary report before the ninth graders' grades from Thomas High School were omitted from the summary is shown here:  
   
-![d-summary-before-omission](https://github.com/taherrin92/School_District_Analysis/blob/main/Resources/Before-Omission.png)
+![ps-summary-before-omission](https://github.com/taherrin92/School_District_Analysis/blob/main/Resources/Per_school-Before-Omission.png)
+
+
+   - The district summary report after the omission only accounts for the tenth through twelfth graders from Thomas High School is shown here : ![ps-summary-after-omission]((https://github.com/taherrin92/School_District_Analysis/blob/main/Resources/Per_school-After-Omission.png)
