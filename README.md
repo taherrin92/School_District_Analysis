@@ -41,4 +41,4 @@
    - If some Thomas High School freshmen were not cheating in reading, then the average grade when they were pulled would have rose, because the cheating outliers boost the average score by a noticeable margin.
 4. Because the reports posting scores by school size, spending, and type were requested to be rounded to either one decimal place or no decimal, the incremental change that occured by replacing their grades with the upper-classmen was too small to have any effect on the report. The change is there if the formatting was adjusted to account for at least two decimal places.
 
-(the PyCitySchools_Functions notebook used a function that defined and calculated math and reading scores by grade and another function that combined the series into the dataframes and formatted them at the same time. Cutting the lines of code in half)
+(the PyCitySchools_Function.ipynb notebook used a function that defined and calculated math and reading scores by grade and another function that combined the series into the dataframes and formatted them at the same time. Cutting the lines of code in half)
